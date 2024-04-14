@@ -1,0 +1,21 @@
+# Both are ways to achieve multi tasking.
+# threads are created by a process inside process.
+# threads share same address space.
+# processes has their own adress space.
+# data between process can't be accessed without special inter process communication.
+# like files, shared  memory, message pipe.
+#  multiple processes can't share memory. they are isolated.
+
+# process: data, files, registers, stack, code/codes
+# thread: code is executed by thread. register and stack are different for threads.
+
+# threads is same like asyncronous programming in python. it's not true parallelism.
+# while process is true parallelism, it can run on different cpu cores.
+
+# GIL locks is python mutex/lock that allows only one thread to get hold of interpreter.
+# this is because python uses reference counting for memory management.
+# objects created in python have reference count which keeps track of number of references poiting to object.
+# when this count reaches zero, object is removed and memory is released.
+# 2 threads can increase/decrease the value of reference count simultaneously which might cause issue.
+
+# In multiprocessing, it creates multiple interpreter in python. thus it can run simultaneously.
