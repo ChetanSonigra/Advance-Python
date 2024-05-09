@@ -1,0 +1,105 @@
+# thread is os object that executes instruction/program.
+
+# a thread is seperate flow of execution in program/process.
+
+# thread: represents task/subprogram.
+
+# Need of multithreading.
+# 1. improves performance of system/application
+# 2. Reduce response time of website/applications
+
+# Applications:
+# 1. games, multimedia graphics, animations.
+# 2. webservers, applications.
+
+# 0.01 sec for each function call and 100 calls = 1 sec.
+# but if we create threads main, thread1, thread2, thread3. it will take 0.25 sec.
+
+# users - multithreadedserver - db
+# user1 - thread1 - db
+# user2 - thread2 - db
+
+Main Thread: 
+
+1. python interpreater starts 
+2. it requests os for creating one thread called as main thread.
+Any process have atleast one default thread as main thread.
+Main thread is created by Python Virtual Machine(interpreater)# thread is os object that executes instruction/program.
+
+# a thread is seperate flow of execution in program/process.
+
+# thread: represents task/subprogram.
+
+# Need of multithreading.
+# 1. improves performance of system/application
+# 2. Reduce response time of website/applications
+
+# Applications:
+# 1. games, multimedia graphics, animations.
+# 2. webservers, applications.
+
+# 0.01 sec for each function call and 100 calls = 1 sec.
+# but if we create threads main, thread1, thread2, thread3. it will take 0.25 sec.
+
+# users - multithreadedserver - db
+# user1 - thread1 - db
+# user2 - thread2 - db
+
+Main Thread: 
+
+1. python interpreater starts 
+2. it requests os for creating one thread called as main thread.
+Any process have atleast one default thread as main thread.
+Main thread is created by Python Virtual Machine(interpreater)# thread is os object that executes instruction/program.
+
+# a thread is seperate flow of execution in program/process.
+
+# thread: represents task/subprogram.
+
+# Need of multithreading.
+# 1. improves performance of system/application
+# 2. Reduce response time of website/applications
+
+# Applications:
+# 1. games, multimedia graphics, animations.
+# 2. webservers, applications.
+
+# 0.01 sec for each function call and 100 calls = 1 sec.
+# but if we create threads main, thread1, thread2, thread3. it will take 0.25 sec.
+
+# users - multithreadedserver - db
+# user1 - thread1 - db
+# user2 - thread2 - db
+
+Main Thread: 
+
+1. python interpreater starts 
+2. it requests os for creating one thread called as main thread.
+Any process have atleast one default thread as main thread.
+Main thread is created by Python Virtual Machine(interpreater)# thread is os object that executes instruction/program.
+
+# a thread is seperate flow of execution in program/process.
+
+# thread: represents task/subprogram.
+
+# Need of multithreading.
+# 1. improves performance of system/application
+# 2. Reduce response time of website/applications
+
+# Applications:
+# 1. games, multimedia graphics, animations.
+# 2. webservers, applications.
+
+# 0.01 sec for each function call and 100 calls = 1 sec.
+# but if we create threads main, thread1, thread2, thread3. it will take 0.25 sec.
+
+# users - multithreadedserver - db
+# user1 - thread1 - db
+# user2 - thread2 - db
+
+Main Thread: 
+
+1. python interpreater starts 
+2. it requests os for creating one thread called as main thread.
+Any process have atleast one default thread as main thread.
+Main thread is created by Python Virtual Machine(interpreater)
